@@ -1,4 +1,4 @@
-# AI-Storyteller :robot: :book:
+# AI Storyteller :robot: :book:
 
 In our project, we created an interactive AI system which generates personalized and interactional children stories, as well as narrates them to the user.
 
